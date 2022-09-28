@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./mobile-design.jpeg)
-![](./desktop_design.jpeg)
+![](results/mobile-design.jpeg)
+![](results/desktop_design.jpeg)
 
 
 ### Links
